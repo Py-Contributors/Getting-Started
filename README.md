@@ -4,7 +4,7 @@
   - [Introduction](#introduction)
   - [Applications of Python](#applications-of-python)
   - [Resources to learn Python](#resources-to-learn-python)
-
+  - [Check Getting Started with Machine leaning to get Mahcine learning Resources](#check-getting-started-with-machine-leaning-to-get-mahcine-learning-resources)
 
 ## Introduction
 
@@ -17,6 +17,7 @@ You may be wondering what all are the applications of Python. There are so many 
 - **Web Development** - Web framework like Django and Flask are based on Python. They help you write server side code which helps you manage database, write backend programming logic, mapping urls etc. **[Django Documentation](https://docs.djangoproject.com/en/3.0/)**
 
 - **Machine learning** - ML is field of study that gives computers the ability to learn without being explicitly programmed.Pyton is one of the best choice for ML and AI.
+[Getting Started with Machine learning](/GETTING_STARTED_WITH_ML.md)
 
 - **Data Anaysis** - Data analysis and data visualisation in form of charts can also be developed using Python. Matplotlib & seaborn are basic library for graphs in Python.
 
@@ -41,3 +42,5 @@ You may be wondering what all are the applications of Python. There are so many 
 <https://www.tutorialspoint.com/python3/>
 
 5. **Python in a Nutshell** : If you believe in learning from books and thorough understanding of the text, then this book will satisfy your geekiness. This book provides all the insights of python3 and is in simply understandable text also recommend the book **Learn Python the Hard Way**. You can easily find the ebook of these on the internet.
+
+## Check [Getting Started with Machine leaning](/GETTING_STARTED_WITH_ML.md) to get Mahcine learning Resources
