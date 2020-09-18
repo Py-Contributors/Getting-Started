@@ -1,5 +1,7 @@
 # Machine Learning Resources
 
+<img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
+
 A curated list of awesome machine learning frameworks, libraries, courses, books and many more.  
 Star and Fork our repository for latest update.
 
