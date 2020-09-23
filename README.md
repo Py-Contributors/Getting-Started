@@ -47,6 +47,6 @@ You may be wondering what all are the applications of Python. There are so many 
 
 ## Check [Getting Started with Machine leaning](/GETTING_STARTED_WITH_ML.md) to get Mahcine learning Resources
 
-**Github** - https://github.com/py-contributors
-**Discord** - https://discord.gg/JfbK3bS
-**Telegram** - https://t.me/pycontributors
+* **Github** - https://github.com/py-contributors
+* **Discord** - https://discord.gg/JfbK3bS
+* **Telegram** - https://t.me/pycontributors
