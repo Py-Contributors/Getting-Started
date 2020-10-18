@@ -44,6 +44,7 @@ Star and Fork our repository for latest update.
 5. [Gaussian Mixture Models - The Math of Intelligence (Week 7)](https://www.youtube.com/watch?v=JNlEIEwe-Cg&t=945s)
 6. [Machine Learning and Data Mining Short Series for Beginner (UC Irvine)](https://www.youtube.com/watch?v=qPhMX0vb6D8&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 7. [Complete Tutorial of Apache Spark (Beginner - Intermediate)](https://www.youtube.com/watch?v=VAE0wEaYXHs&list=PLkRkKTC6HZMxAPWIqXp2bnQI_UFd0YsbC)
+8. [Complete Machine Learning by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 
 ## Papers
 
@@ -98,5 +99,6 @@ Star and Fork our repository for latest update.
 3. [XGBoost](https://github.com/dmlc/xgboost)
 4. [spaCy](https://github.com/explosion/spaCy)
 5. [CNTK](https://github.com/Microsoft/CNTK)
+6. [Pandas](https://pandas.pydata.org/)
 
 **Note**:-  If somethings is broken(Link) please create a **issue** or **PR(pullRequest)**
